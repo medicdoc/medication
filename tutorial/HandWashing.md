@@ -8,5 +8,8 @@
 
 Израильские ученые утверждают, что мытье рук спасает не только от кишечных заболеваний, но и снижает риск респираторного заболевания более чем на 40%[^2]
 
+Дезинфицирующие средства для рук наиболее эффективны против бактерий и менее эффективны против некоторых вирусов[^3]
+
 [^1]: https://getsiz.ru/zavisit-li-chistota-ruk-ot-temperatury-vody.html
 [^2]: https://feleti.by/zavisit-li-chistota-ruk-ot-temperatury-vody/
+[^3]: https://en.wikipedia.org/wiki/Hand_washing
