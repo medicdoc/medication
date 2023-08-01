@@ -30,6 +30,10 @@
 
 B complex 1 рад в день после еды
 
+пикамилон
+<br>
+актовегин
+
 ## 🚿 Ванна
 ### 28 августа 2020
 <img width="40%" src="https://user-images.githubusercontent.com/87380272/153481642-5a605336-173a-4aae-baa5-bf76f75b4349.png"></img><img width="40%" src="https://user-images.githubusercontent.com/87380272/153481923-085f436f-d222-400e-a76d-1ba1f62e2d55.png"></img>
