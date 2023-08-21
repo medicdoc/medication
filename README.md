@@ -59,6 +59,10 @@ B complex 1 рад в день после еды
 <br>
 + ношпа 1 x2
 
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D1%80%D1%91%D0%B1%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D0%B3%D0%B8%D1%8F
+- https://gemotest.ru/info/spravochnik/zabolevaniya/mezhryebernaya-nevralgiya/
+- https://oxford-med.com.ua/media-center/publikacii/lechenie-i-simptomy-mezhrebernoy-nevralgiyi/
+
 ## 🚿 Ванна
 ### 28 августа 2020
 <img width="40%" src="https://user-images.githubusercontent.com/87380272/153481642-5a605336-173a-4aae-baa5-bf76f75b4349.png"></img><img width="40%" src="https://user-images.githubusercontent.com/87380272/153481923-085f436f-d222-400e-a76d-1ba1f62e2d55.png"></img>
