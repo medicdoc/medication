@@ -48,7 +48,7 @@ B complex 1 рад в день после еды
 <br>
 панангин 2 x 2р.
 
-### Межрёберная невралгия
+## Межрёберная невралгия
 мелоксикам 7 5 x 2p.
 <br>
 найз 100 мг x2
@@ -59,7 +59,7 @@ B complex 1 рад в день после еды
 <br>
 + ношпа 1 x2
 
-
+### Ссылки
 - https://ru.wikipedia.org/wiki/Межрёберная_невралгия
 - https://gemotest.ru/info/spravochnik/zabolevaniya/mezhryebernaya-nevralgiya/
 - https://oxford-med.com.ua/media-center/publikacii/lechenie-i-simptomy-mezhrebernoy-nevralgiyi/
