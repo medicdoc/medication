@@ -59,6 +59,7 @@ B complex 1 рад в день после еды
 <br>
 + ношпа 1 x2
 
+
 - https://ru.wikipedia.org/wiki/Межрёберная_невралгия
 - https://gemotest.ru/info/spravochnik/zabolevaniya/mezhryebernaya-nevralgiya/
 - https://oxford-med.com.ua/media-center/publikacii/lechenie-i-simptomy-mezhrebernoy-nevralgiyi/
