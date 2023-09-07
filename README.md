@@ -68,6 +68,12 @@ B complex 1 рад в день после еды
 - милдронат
 - Пикамилон
 
+## Желудок
+- Фосфалюгель
+- Алмагель
+
+https://sprosivracha.com/questions/987702-bolit-zheludok-iz-za-lekarstv
+
 ### Ссылки
 - https://ru.wikipedia.org/wiki/Межрёберная_невралгия
 - https://gemotest.ru/info/spravochnik/zabolevaniya/mezhryebernaya-nevralgiya/
