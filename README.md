@@ -71,6 +71,11 @@ B complex 1 рад в день после еды
 ## Желудок
 - Фосфалюгель
 - Алмагель
+- Омепразол
+
+## Витамины
+- Нейромультивит B
+- Сорбифер дурулес железо
 
 https://sprosivracha.com/questions/987702-bolit-zheludok-iz-za-lekarstv
 
