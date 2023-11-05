@@ -39,7 +39,7 @@ B complex 1 рад в день после еды
 
  <img width="30%" src="https://github.com/medicdoc/medication/assets/87380272/a6eaaeba-b2eb-40e4-ba94-e0ab79b0c848"></img>
 
-Cosmopor E
+Cosmopor E 7.2 см x 5 см, 4 x 2.5 см
 
 ## Насморк
 сиалор
