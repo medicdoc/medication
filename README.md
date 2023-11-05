@@ -37,7 +37,7 @@ B complex 1 рад в день после еды
 ## Прыщи
 ### Левомеколь
 
-![image](https://github.com/medicdoc/medication/assets/87380272/a6eaaeba-b2eb-40e4-ba94-e0ab79b0c848)
+ <img width="30%" src="https://github.com/medicdoc/medication/assets/87380272/a6eaaeba-b2eb-40e4-ba94-e0ab79b0c848"></img>
 
 ## Насморк
 сиалор
