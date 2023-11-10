@@ -26,6 +26,9 @@
 | 🦟 Азудол (СПЕЦИАЛЬНЫЙ!)
 | 🦟 Гидрокортизон
 
+### 👃 Сиалор
+![image](https://github.com/medicdoc/medication/assets/87380272/d243e37e-1deb-4456-bc20-0ae84557b309)
+
 гриппферон 
 
 B complex 1 рад в день после еды
@@ -40,9 +43,6 @@ B complex 1 рад в день после еды
  <img width="30%" src="https://github.com/medicdoc/medication/assets/87380272/a6eaaeba-b2eb-40e4-ba94-e0ab79b0c848"></img>
 
 Cosmopor E 7.2 см x 5 см, 4 x 2.5 см
-
-### 👃 Сиалор
-![image](https://github.com/medicdoc/medication/assets/87380272/d243e37e-1deb-4456-bc20-0ae84557b309)
 
 ## Астма
 формисонид
