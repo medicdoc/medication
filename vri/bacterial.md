@@ -77,6 +77,10 @@ https://www.bmj.com/content/373/bmj.n808
 
 Не всем может быть понятно, что такое метамиелоциты и миелоциты. Это тоже элементы крови, которые в норме не обнаруживаются при анализе, так как они содержатся в костном мозге. Но при возникновении проблем с кроветворением такие клетки могут выявляться. Их появление говорит о тяжелом воспалительном процессе.
 
+## Кашель
+При вирусных и бактериальных инфекциях одним из самых частых респираторных симптомов является кашель. При острых респираторных инфекциях (ОРИ) кашель обычно продолжается около 7–9 дней.[^4]
+
 [^1]: https://rospotrebnadzor95.ru/article/5806
 [^2]: https://medgorod-clinic.ru/stati/otlichiya-virusnoj-infekcii-ot-bakterialnoj/
 [^3]: https://xn--80abtevg6a.xn--p1ai/info/kak-otlichit-virusnuyu-infektsiyu-ot-bak/
+[^4]: https://medvestnik.ru/content/medarticles/Chem-opasen-suhoi-kashel-patogeneticheskie-aspekty-simptoma.html
