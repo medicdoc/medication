@@ -96,6 +96,8 @@ https://www.bmj.com/content/373/bmj.n808
 
 Девятнадцать исследований сообщили о неблагоприятных эффектах этих препаратов и описали нечастые, в основном незначительные побочные эффекты, такие как тошнота, рвота, головная боль и сонливость.[^7]
 
+Пневмония 2023 года - Ну а неэффективность антибиотиков объяснялась просто — ни амоксициллин (пенициллин), ни цефиксим (цефалоспорин) не действуют на микоплазму. К сожалению, такие антибиотики, как фторхинолоны, эффективные при пневмониях любой этиологии у взрослых, пациентам до 15 лет запрещены. Зато для детей у нас есть макролиды — азитромицин, кларитромицин, джозамицин и др. Я назначил кларитромицин.[^9]
+
 [^1]: https://rospotrebnadzor95.ru/article/5806
 [^2]: https://medgorod-clinic.ru/stati/otlichiya-virusnoj-infekcii-ot-bakterialnoj/
 [^3]: https://xn--80abtevg6a.xn--p1ai/info/kak-otlichit-virusnuyu-infektsiyu-ot-bak/
@@ -104,3 +106,4 @@ https://www.bmj.com/content/373/bmj.n808
 [^6]: https://bronchipret.com/statji/antibiotiki-pri-kashle
 [^7]: https://www.cochrane.org/ru/CD001831/ARI_bezrecepturnye-lekarstva-pri-ostrom-kashle-u-detey-i-vzroslyh-vo-vnebolnichnyh-usloviyah
 [^8]: https://stomistok.ru/prostuda-kogda-nuzhno-pit-antibiotiki/
+[^9]: https://apteka.ru/blog/articles/pro-zdorovie/atipichnaya-pnevmoniya5f322c4807642248c30f7122/
