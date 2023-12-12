@@ -197,6 +197,11 @@
 ### Гаймороэтмоидит
 Заболевание наиболее часто возникает в том случае, когда организм и иммунная система ослаблены.
 
+## Пневмония
+Пневмония - воспаление лёгких, чаще всего вызывается бактериями и имеет специфические симптомы[^8]
+
+
+
 [^1]: https://en.wikipedia.org/wiki/Rhinitis
 [^2]: https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BD%D0%B8%D1%82
 [^3]: https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%83%D0%B4%D0%B0
@@ -204,3 +209,4 @@
 [^5]: https://en.wikipedia.org/wiki/Cold_medicine
 [^6]: https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%83%D1%81%D0%B8%D1%82
 [^7]: https://en.wikipedia.org/wiki/Sinusitis
+[^8]: https://www.youtube.com/watch?v=zs3MCKO1gdA
