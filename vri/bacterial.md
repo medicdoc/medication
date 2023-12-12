@@ -82,7 +82,10 @@ https://www.bmj.com/content/373/bmj.n808
 
 Центральное воздействие на кашлевой центр при сухом кашле характерно для бутамирата цитрата. Препарат Синекод.
 
+Боль в горле и кашель – это симптомы одного и того же острого респираторного заболевания, причины которого могут быть разные. Так может протекать любая вирусная или бактериальная инфекция. Появление кашля вовсе не значит, что стало хуже. Это всего лишь закономерное развитие болезни. Он может быть сухим, когда идет раздражение и отек слизистой оболочки, влажным – когда отделяемое из носоглотки стекает вниз по гортани и есть чему отхаркиваться. В норме мокроты быть не должно, постоянное ее отделение характерно для хронических заболеваний.[^5]
+
 [^1]: https://rospotrebnadzor95.ru/article/5806
 [^2]: https://medgorod-clinic.ru/stati/otlichiya-virusnoj-infekcii-ot-bakterialnoj/
 [^3]: https://xn--80abtevg6a.xn--p1ai/info/kak-otlichit-virusnuyu-infektsiyu-ot-bak/
 [^4]: https://medvestnik.ru/content/medarticles/Chem-opasen-suhoi-kashel-patogeneticheskie-aspekty-simptoma.html
+[^5]: https://www.infarkta.net/press-center/smi/detal.php?ELEMENT_ID=15609
