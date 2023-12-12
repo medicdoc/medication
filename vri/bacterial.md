@@ -86,8 +86,14 @@ https://www.bmj.com/content/373/bmj.n808
 
 Условно здоровому ребенку они не нужны, это лишнее медикаментозное вмешательство, даже физраствором дышать «на всякий случай» не стоит. Должно быть адекватное увлажнение воздуха в помещении, а не органов дыхания.
 
+Антибиотики при сухом кашле у взрослых обычно не назначаются. Отсутствие мокроты — возможное указание на то, что густая и вязкая слизь трудно откашливается и нужно помочь организму ее вывести. Для этого используются муколитики — препараты, которые помогают разжижать мокроту и стимулировать ее выведение.[^6]
+
+Девятнадцать исследований сообщили о неблагоприятных эффектах этих препаратов и описали нечастые, в основном незначительные побочные эффекты, такие как тошнота, рвота, головная боль и сонливость.[^7]
+
 [^1]: https://rospotrebnadzor95.ru/article/5806
 [^2]: https://medgorod-clinic.ru/stati/otlichiya-virusnoj-infekcii-ot-bakterialnoj/
 [^3]: https://xn--80abtevg6a.xn--p1ai/info/kak-otlichit-virusnuyu-infektsiyu-ot-bak/
 [^4]: https://medvestnik.ru/content/medarticles/Chem-opasen-suhoi-kashel-patogeneticheskie-aspekty-simptoma.html
 [^5]: https://www.infarkta.net/press-center/smi/detal.php?ELEMENT_ID=15609
+[^6]: https://bronchipret.com/statji/antibiotiki-pri-kashle
+[^7]: https://www.cochrane.org/ru/CD001831/ARI_bezrecepturnye-lekarstva-pri-ostrom-kashle-u-detey-i-vzroslyh-vo-vnebolnichnyh-usloviyah
