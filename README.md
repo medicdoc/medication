@@ -27,6 +27,9 @@
 | 🦟 Азудол (СПЕЦИАЛЬНЫЙ!)
 | 🦟 Гидрокортизон
 
+### 👃 Персиковое масло
+<img width="30%" src="https://github.com/medicdoc/medication/assets/87380272/14de38e0-03af-4574-842e-903200afffb1"></img>
+
 ### 👃 Сиалор
 <img width="30%" src="https://github.com/medicdoc/medication/assets/87380272/d243e37e-1deb-4456-bc20-0ae84557b309"></img>
 
