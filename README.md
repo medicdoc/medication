@@ -46,6 +46,8 @@ B complex 1 рад в день после еды
 ### Сухой кашель
 Новый эффективный - Левопронт
 
+### Боль в горле
+https://www.kp.ru/doctor/preparaty/luchshie-tabletki-ot-boli-v-gorle-dlya-vzroslykh/
 
 ## Прыщи
 ### Левомеколь
