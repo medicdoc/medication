@@ -54,9 +54,11 @@ B complex 1 рад в день после еды
 <img width="30%" src="https://github.com/medicdoc/medication/assets/87380272/48ddf0c2-b4e9-4cae-b95f-7d8b6fe49635"></img>
 
 ### Сухой кашель
-#### ❌ ~Ренгалин~
-<br>
-Новый эффективный - Левопронт
+#### ❌ ~Ренгалин~ - неэффективная гомеопатия
+
+Левопронт - средне эффективный, относительно безопасный. 
+
+<img width="30%" src="https://github.com/medicdoc/medication/assets/87380272/a28ad7c9-8205-496e-9ada-a9a78c321814"></img>
 
 ### Боль в горле
 https://www.kp.ru/doctor/preparaty/luchshie-tabletki-ot-boli-v-gorle-dlya-vzroslykh/
