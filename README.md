@@ -63,6 +63,8 @@ B complex 1 рад в день после еды
 ### Боль в горле
 https://www.kp.ru/doctor/preparaty/luchshie-tabletki-ot-boli-v-gorle-dlya-vzroslykh/
 
+лоротрицин
+
 ## Прыщи
 ### Левомеколь
 
