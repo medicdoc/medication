@@ -28,22 +28,22 @@
 | 🦟 Гидрокортизон
 
 ### Стрепсилс
-![image](https://github.com/medicdoc/medication/assets/87380272/f9d9eb0a-774a-4d5c-b1f2-41976d76898d)
+<img src="https://github.com/medicdoc/medication/assets/87380272/f9d9eb0a-774a-4d5c-b1f2-41976d76898d" width="30%">
 
 - 2,4-дихлорбензиловый спирт 1,2 мг
 - амилметакрезол 0,6 мг;
 
-![image](https://github.com/medicdoc/medication/assets/87380272/da003985-05de-444f-a49b-af80f853ce33)
+<img src="https://github.com/medicdoc/medication/assets/87380272/da003985-05de-444f-a49b-af80f853ce33" width="30%">
 
 - флурбипрофен 8,75 м
 
-![image](https://github.com/medicdoc/medication/assets/87380272/3e566f60-f72c-4a11-9861-ae13272ed003)
+<img src="https://github.com/medicdoc/medication/assets/87380272/3e566f60-f72c-4a11-9861-ae13272ed003" width="30%">
 
 - амилметакрезол 0,6 мг
 - 2,4-дихлорбензиловый спирт 1,2 мг
 - левоментол 8 мг
 
-![image](https://github.com/medicdoc/medication/assets/87380272/37ba6985-7bac-4e8f-8ee1-812c8de7def9)
+<img src="https://github.com/medicdoc/medication/assets/87380272/37ba6985-7bac-4e8f-8ee1-812c8de7def9" width="30%">
 
 - 2,4-дихлорбензиловый спирт 1,2 мг
 - амилметакрезол 0,6 мг
