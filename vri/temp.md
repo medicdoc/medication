@@ -1,4 +1,5 @@
 ## Парацетомол
+Колдрекс ХотРем (Лимон + витамин С) - 750 мг
 ### Панадол
 Источник: https://deti-klinika.ru/zharoponizhayushhie-sredstva/
 
