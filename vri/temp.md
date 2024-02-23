@@ -35,15 +35,15 @@ https://sciencebasedmedicine.org/does-treating-fever-spread-influenza/
 <br>
 Если за 3 часа температура вообще не снизилась - вызываем **СКОРУЮ**!
 
+### Панадол
+Источник: https://deti-klinika.ru/zharoponizhayushhie-sredstva/
+
+### Эффералган
+https://dzen.ru/a/XxaDebYf3X0meJvT
+
 ## Ибупрофен
 от 200 до 400 мг
 
 Для 43 килограмм:
 - Нижний предел (5 мг/кг): 43 кг * 5 мг/кг = 215 мг
 - Верхний предел (10 мг/кг): 43 кг * 10 мг/кг = 430 мг
-
-### Панадол
-Источник: https://deti-klinika.ru/zharoponizhayushhie-sredstva/
-
-### Эффералган
-https://dzen.ru/a/XxaDebYf3X0meJvT
