@@ -120,6 +120,8 @@ Cosmopor E 7.2 см x 5 см, 4 x 2.5 см
 <br>
 У нас было: ивабрадин канон
 
+![image](https://github.com/user-attachments/assets/d97caa95-3580-4dfc-9152-712713559baa)
+
 ## Межрёберная невралгия
 мелоксикам 7 5 x 2p.
 <br>
